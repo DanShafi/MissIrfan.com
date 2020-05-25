@@ -233,20 +233,11 @@ a:hover {
         display: none !important;
     }
 
-    #hero-section {
-        height: 100vh;
-    }
-
     #pt1-tutoring,
     #pt2-online,
     #pt3-safeguarding,
     #pt4-faq {
         padding: 25px;
-        margin-bottom: 50px;
-    }
-
-    #foreword {
-        margin-top: -615px;
         margin-bottom: 50px;
     }
 
@@ -264,12 +255,17 @@ a:hover {
 
     /* HERO SECTION MOBILE */
 
-    .skewedDivA {
-        height: 100vh;
+    #hero-section {
+        margin-bottom: -100px;
+    }
+
+    #hero-img {
+        height: inherit;
+        margin-top: -75px;
     }
 
     #hero-title {
-        font-size: 80px;
+        font-size: 70px;
     }
 
     #hero-subtitle {
@@ -280,8 +276,7 @@ a:hover {
     }
 
     .mobile-hero {
-        margin-top: 10px;
-        padding: 45px !important;
+        padding: 20px 45px 0px 45px !important;
     }
 
     .hero-text {
