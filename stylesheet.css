@@ -259,11 +259,6 @@ a:hover {
         margin-bottom: -100px;
     }
 
-    #hero-img {
-        height: inherit;
-        margin-top: -75px;
-    }
-
     #hero-title {
         font-size: 70px;
     }
@@ -282,6 +277,11 @@ a:hover {
     .hero-text {
         font-size: 13px;
         padding: 35px;
+    }
+
+    #foreword {
+        margin-bottom: 150px;
+        margin-top: -100px;
     }
 
     /* SAFEGUARDING */
